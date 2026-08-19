@@ -1,3 +1,1 @@
-I am on my way to passing the DevNet DEVASC exam
-I am beginnng to understand Git!
-This text was added originally while in the feature branch
+Displays news from GNews and weather from an API
